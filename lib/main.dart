@@ -163,7 +163,7 @@ class _XylophoneScreenState extends State<XylophoneScreen> {
                   "Tap to play",
                   style: TextStyle(
                     fontSize: 16,
-                    color: Color.fromRGBO(255, 255, 255, 0.7),
+                    color: Color.fromRGBO(255, 255, 255, 0.6),
                   ),
                 ),
                 const SizedBox(height: 24),
